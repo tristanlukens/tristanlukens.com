@@ -1,5 +1,9 @@
-<script>
-	import Header from '$lib/header.svelte';
+<script lang="ts">
+	import { marked } from 'marked';
+
+	import type { PageProps } from './$types';
+
+	let { data }: PageProps = $props();
 </script>
 
-<Header />
+<div>{@html marked.parse(data.raw)}</div>
