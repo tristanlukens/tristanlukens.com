@@ -1,38 +1,15 @@
-# sv
+# tristanlukens.com
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Personal website for writing the occasional blog post and posting drum covers
 
-## Creating a project
+## Tech
 
-If you're seeing this, you've probably already done this step. Congrats!
+Uses SvelteKit, Taliwind + Typography and Hygraph for storing content.
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Trello board
 
-# create a new project in my-app
-npx sv create my-app
-```
+I use Trello (at least for now) to track progress. The board's public: [https://trello.com/b/72mOwWg2/tristanlukenscom](https://trello.com/b/72mOwWg2/tristanlukenscom).
 
-## Developing
+## License + author
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Made by Tristan Lukens <info.tristan7@gmail.com> (2025). Licensed under MIT.
