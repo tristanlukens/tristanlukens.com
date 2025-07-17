@@ -12,4 +12,4 @@ I use Trello (at least for now) to track progress. The board's public: [https://
 
 ## License + author
 
-Made by Tristan Lukens <info.tristan7@gmail.com> (2025). Licensed under MIT.
+Made by Tristan Lukens \<info.tristan7@gmail.com\> (2025). Licensed under MIT.
