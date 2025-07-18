@@ -8,39 +8,36 @@
 
 	<Logo />
 
-	<!-- Navigation. I'm only using it once, so it doesn't make sense to put it in a component -->
+	<!-- Navigation -->
 	<nav class="mt-4">
 		<ul class="flex justify-evenly">
-			{#each ['covers', 'posts', 'socials'] as item}
-				<NavItem page={item} />
+			{#each ['covers', 'articles'] as page}
+				<NavItem {page} />
 			{/each}
+
+			<div class="dropdown dropdown-end md:dropdown-start font-mono">
+				<div
+					tabindex="0"
+					role="button"
+					class="btn nav-item rounded-box bg-neutral-100 shadow-none dark:bg-neutral-800"
+				>
+					profiles
+				</div>
+				<!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+				<ul
+					tabindex="0"
+					class="dropdown-content menu rounded-box z-1 mt-1 w-52 bg-neutral-100 p-2 text-neutral-800 outline-1 outline-neutral-200 dark:bg-neutral-800 dark:text-neutral-200"
+				>
+					<li><a target="_blank" href="https://instagram.com/tris_lukens">→ Instagram</a></li>
+					<li><a target="_blank" href="https://threads.com/tris_lukens">→ Threads</a></li>
+					<li>
+						<a target="_blank" href="https://news.ycombinator.com/user?id=tristanlukens"
+							>→ Hacker News</a
+						>
+					</li>
+					<li><a target="_blank" href="https://github.com/tristanlukens">→ GitHub</a></li>
+				</ul>
+			</div>
 		</ul>
 	</nav>
 </header>
-
-<!-- <header class="space-y-7 text-center select-none">
-	<Logo />
-
-	<nav>
-		<ul class="flex items-center justify-evenly">
-			<li>
-				<a
-					class="text-sm font-bold text-amber-500 uppercase transition hover:text-amber-400"
-					href="/">home</a
-				>
-			</li>
-			<li>
-				<a
-					class="text-sm font-bold text-amber-500 uppercase transition hover:text-amber-400"
-					href="/blog">blog</a
-				>
-			</li>
-			<li>
-				<a
-					class="text-sm font-bold text-amber-500 uppercase transition hover:text-amber-400"
-					href="/covers">covers</a
-				>
-			</li>
-		</ul>
-	</nav>
-</header> -->

@@ -3,9 +3,17 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
+@plugin "daisyui" {
+	include: dropdown, button, menu, dropdown-content;
+}
+
 @theme {
 	/* Regular sans-serif, extended by Arvo (a serif font) */
 	--font-arvo:
 		'Arvo', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
 		'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.nav-item {
+	@apply block px-4 py-2 font-mono text-sm tracking-wide text-neutral-500 uppercase hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-400;
 }

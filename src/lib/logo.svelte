@@ -2,7 +2,7 @@
 	let { second = 'lukens' } = $props();
 </script>
 
-<a target="_blank" href="/">
+<a href="/">
 	<div class="inline text-3xl">
 		tristan<span class="font-bold">{second}</span>
 	</div>
