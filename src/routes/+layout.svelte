@@ -10,6 +10,7 @@
 >
 	<div class="mx-auto max-w-prose px-4">
 		<Header />
+
 		<section
 			class="prose prose-headings:text-center prose-rose prose-p:leading-loose prose-a:no-underline prose-a:italic dark:prose-invert mt-8 text-justify"
 		>

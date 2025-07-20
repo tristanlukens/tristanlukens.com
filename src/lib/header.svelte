@@ -11,7 +11,7 @@
 	<!-- Navigation -->
 	<nav class="mt-4">
 		<ul class="flex justify-evenly">
-			{#each ['covers', 'articles'] as page}
+			{#each ['home', 'covers', 'articles'] as page}
 				<NavItem {page} />
 			{/each}
 

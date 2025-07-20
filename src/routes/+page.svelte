@@ -1,9 +1,11 @@
 <script lang="ts">
 	import { marked } from 'marked';
+	import { second } from '$lib/logo.svelte.ts';
 
 	import type { PageProps } from './$types';
-
 	let { data }: PageProps = $props();
+
+	second.value = 'lukens';
 </script>
 
 <svelte:head>

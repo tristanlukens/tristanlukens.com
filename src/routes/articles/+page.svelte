@@ -1,3 +1,9 @@
+<script>
+	import { second } from '$lib/logo.svelte.ts';
+
+	second.value = 'writes';
+</script>
+
 <svelte:head>
 	<title>Articles | Tristan Lukens</title>
 	<meta
