@@ -13,4 +13,4 @@
 	<meta name="description" content="Personal website for articles and drum covers." />
 </svelte:head>
 
-<div>{@html marked.parse(data.raw)}</div>
+<div class="prose-custom">{@html marked.parse(data.raw)}</div>

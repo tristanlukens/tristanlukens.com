@@ -1,6 +1,6 @@
 <script>
 	import Logo from './logo.svelte';
-	import NavItem from './navitem.svelte';
+	import NavItem from './navItem.svelte';
 </script>
 
 <header class="text-center select-none">
@@ -10,16 +10,16 @@
 
 	<!-- Navigation -->
 	<nav class="mt-4">
-		<ul class="flex justify-evenly">
+		<ul class="flex flex-wrap justify-evenly gap-y-4">
 			{#each ['home', 'covers', 'articles'] as page}
 				<NavItem {page} />
 			{/each}
 
-			<div class="dropdown dropdown-end md:dropdown-start font-mono">
+			<div class="dropdown dropdown-center md:dropdown-start font-mono">
 				<div
 					tabindex="0"
 					role="button"
-					class="btn nav-item rounded-box bg-neutral-100 shadow-none dark:bg-neutral-800"
+					class="btn nav-item rounded-box bg-neutral-100 shadow-none sm:w-auto dark:bg-neutral-800"
 				>
 					profiles
 				</div>

@@ -4,7 +4,7 @@
 @plugin '@tailwindcss/typography';
 
 @plugin "daisyui" {
-	include: dropdown, button, menu, dropdown-content;
+	include: dropdown, button, menu, dropdown-content, tooltip;
 }
 
 @theme {
@@ -14,6 +14,18 @@
 		'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+hr {
+	@apply dark:!border-neutral-700;
+}
+
 .nav-item {
 	@apply block px-4 py-2 font-mono text-sm tracking-wide text-neutral-500 uppercase hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-400;
+}
+
+.prose-custom {
+	@apply prose prose-headings:text-center prose-rose prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
+}
+
+.category {
+	@apply font-mono tracking-wide uppercase;
 }
