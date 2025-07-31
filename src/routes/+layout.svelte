@@ -1,10 +1,12 @@
 <script lang="ts">
+	import Footer from '$lib/footer.svelte';
 	import Header from '$lib/header.svelte';
 	import Hr from '$lib/hr.svelte';
 	import '../app.css';
 
 	let { children } = $props();
 
+	// ['Main text', 'Hover text']
 	const footerQuotes = [
 		['Fly, you fools', '- Gandalf the Grey (Lord of the Rings)'],
 		[':wq', 'How do I exit vim again?'],
@@ -29,7 +31,8 @@
 		['Fire that god damn kid', '- Jessica Pearson (Suits)']
 	];
 
-	const randomQuote = () => footerQuotes[Math.round(Math.random() * (footerQuotes.length - 1))];
+	const randomQuote: any = () =>
+		footerQuotes[Math.round(Math.random() * (footerQuotes.length - 1))];
 	let quote = $state(randomQuote());
 </script>
 
@@ -45,16 +48,6 @@
 
 		<Hr />
 
-		<footer class="py-6 text-center text-sm">
-			<button
-				onclick={() => {
-					quote = randomQuote();
-				}}
-				class="tooltip tooltip-bottom sm:tooltip-right -my-4 -ml-8 py-4 pl-8"
-				data-tip={quote[1]}
-			>
-				{quote[0]}
-			</button>
-		</footer>
+		<Footer {quote} {randomQuote} />
 	</div>
 </div>
