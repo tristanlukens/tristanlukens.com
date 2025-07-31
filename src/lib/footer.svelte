@@ -8,7 +8,7 @@
 		onclick={() => {
 			quote = randomQuote();
 		}}
-		class="tooltip tooltip-bottom sm:tooltipx-right -my-4 -ml-8 py-4 pl-8"
+		class="tooltip tooltip-bottom sm:tooltip-right"
 		data-tip={quote[1]}
 	>
 		{quote[0]}
