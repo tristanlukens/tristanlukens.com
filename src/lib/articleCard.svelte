@@ -1,8 +1,7 @@
 <script lang="ts">
-	import Hr from './hr.svelte';
-	import type { metadata } from './server/database';
+	import type { articleMetadata } from './server/database';
 
-	let { data }: { data: metadata } = $props();
+	let { data }: { data: articleMetadata } = $props();
 </script>
 
 <a href={`/articles/${data.slug}`}>

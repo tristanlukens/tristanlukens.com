@@ -1,7 +1,9 @@
 import { HYGRAPH_API } from '$env/static/private';
 import { GraphQLClient } from 'graphql-request';
 
-export interface metadata {
+// Types and functions for handling articles
+
+export interface articleMetadata {
 	abstract: string;
 	category: string;
 	date: string;
@@ -9,11 +11,11 @@ export interface metadata {
 	slug: string;
 }
 
-export interface article extends metadata {
+export interface article extends articleMetadata {
 	content: string;
 }
 
-type getArticlesMetadataResponse = { articles: [metadata] };
+type getArticlesMetadataResponse = { articles: [articleMetadata] };
 export const getArticlesMetadata = async () => {
 	const hygraph = new GraphQLClient(HYGRAPH_API);
 
@@ -52,4 +54,42 @@ export const getArticleBySlug = async (slug: string) => {
 	const article: getArticleBySlugResponse = await hygraph.request(query);
 
 	return article;
+};
+
+// Types and functions for handling covers
+
+export interface coverMetadata {
+	artist: string;
+	song: string;
+	extraIdentifier: string;
+	slug: string;
+	thumbnailURL: string;
+	date: string;
+}
+
+export interface cover extends coverMetadata {
+	videoID: string;
+	content: string;
+}
+
+type getCoversMetadataResponse = { covers: [coverMetadata] };
+export const getCoversMetadata = async () => {
+	const hygraph = new GraphQLClient(HYGRAPH_API);
+
+	const query = `
+        query getCoversMetadata {
+            covers(orderBy: date_DESC) {
+                artist
+                song
+                extraIdentifier
+                slug
+                thumbnailURL
+                date
+            }
+        }
+    `;
+
+	const { covers }: getCoversMetadataResponse = await hygraph.request(query);
+
+	return covers;
 };
