@@ -10,8 +10,8 @@ I'm Tristan, nineteen years old and from the Netherlands. I've been obsessed wit
 
 My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years.
 
-I've written a few thousand words about all kinds of things at [articles](/articles). Most are in English, though some are in Dutch.
+I've written a few thousand words about all kinds of things at [articles](/articles). Most are in English, though some might be in Dutch.
 
 I initially built this site to publish drum covers, over at [covers](/covers). You might know some songs I did. Have a look. After that, pop over to my Instagram, where I've also posted some of them.
 
-Cheers.
+All the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to refresh. Cheers.
