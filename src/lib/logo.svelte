@@ -3,7 +3,7 @@
 </script>
 
 <a href="/">
-	<div class="inline text-3xl">
-		tristan<span class="font-bold">{second.value}</span>
+	<div class="font-display inline text-5xl">
+		tristan<span class="font-black">{second.value}</span>
 	</div>
 </a>
