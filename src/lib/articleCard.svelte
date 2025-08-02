@@ -1,7 +1,10 @@
 <script lang="ts">
+	import { formatHygraphDate } from './helpers';
 	import type { articleMetadata } from './server/database';
 
 	let { data }: { data: articleMetadata } = $props();
+
+	const formattedDate = formatHygraphDate(data.date);
 </script>
 
 <a href={`/articles/${data.slug}`}>
@@ -10,8 +13,8 @@
 	>
 		<p>{data.title}</p>
 		<p class="text-sm">
-			in <span class=" font-mono tracking-wide uppercase">{data.category}</span> from
-			<span class="font-mono tracking-wide uppercase">{data.date}</span>
+			published to <span class="font-mono tracking-wide uppercase">{data.category}</span> on
+			<span>{formattedDate}</span>
 		</p>
 		<p class="text-sm text-neutral-500 dark:text-neutral-400">{data.abstract}</p>
 	</div>

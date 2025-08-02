@@ -41,3 +41,7 @@ hr {
 .category {
 	@apply font-mono tracking-wide uppercase;
 }
+
+.coverCardEffect {
+	@apply translate-y-4 opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100;
+}

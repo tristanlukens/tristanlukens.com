@@ -2,28 +2,13 @@
 	import { marked } from 'marked';
 	import { second } from '$lib/logo.svelte.ts';
 	import type { PageProps } from './$types';
+	import { formatHygraphDate } from '$lib/helpers';
 
 	second.value = 'writes';
 
 	let { data }: PageProps = $props();
 
-	const months = [
-		'January',
-		'February',
-		'March',
-		'April',
-		'May',
-		'June',
-		'July',
-		'August',
-		'September',
-		'October',
-		'November',
-		'December'
-	];
-
-	const [YYYY, MM, DD] = data.article.date.split('-'); // Hygraph parses dates in YYYY-MM-DD
-	const formatted = `${months[parseInt(MM) - 1]} ${DD}, ${YYYY}`;
+	const formattedDate = formatHygraphDate(data.article.date);
 </script>
 
 <svelte:head>
@@ -36,6 +21,8 @@
 
 <div class="prose-custom">
 	<h1>{data.article.title}</h1>
-	<p class="text-center">in <span class="category">{data.article.category}</span> | {formatted}</p>
+	<p class="text-center">
+		in <span class="category">{data.article.category}</span> | {formattedDate}
+	</p>
 	<section>{@html marked.parse(data.article.content)}</section>
 </div>

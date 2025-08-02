@@ -1,5 +1,5 @@
 <script lang="ts">
-	type quoteType = [string, string];
+	type quoteType = [string] | [string, string];
 	let { quote, randomQuote }: { quote: quoteType; randomQuote: () => quoteType } = $props();
 </script>
 
@@ -8,7 +8,7 @@
 		onclick={() => {
 			quote = randomQuote();
 		}}
-		class="tooltip tooltip-bottom sm:tooltip-right"
+		class="tooltip tooltip-top cursor-pointer"
 		data-tip={quote[1]}
 	>
 		{quote[0]}
