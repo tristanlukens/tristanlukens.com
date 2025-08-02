@@ -4,9 +4,9 @@ Hey! I'm Tristan. You've found yourself on my site. You can read about me, as we
 
 ---
 
-## `uname -a`
+<!-- ## `uname -a` -->
 
-I'm Tristan, nineteen years old and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering. 
+I'm Tristan, nineteen years old and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering.
 
 My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years.
 
