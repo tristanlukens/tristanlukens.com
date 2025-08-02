@@ -35,7 +35,7 @@ hr {
 }
 
 .prose-custom {
-	@apply prose prose-headings:text-center prose-rose prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
+	@apply prose prose-headings:text-center prose-rose prose-a:tracking-tighter prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
 }
 
 .category {
