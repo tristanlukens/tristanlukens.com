@@ -33,22 +33,24 @@
 	'Segoe UI Symbol', 'Noto Color Emoji'; */
 }
 
-hr {
-	@apply dark:!border-neutral-700;
-}
+@layer components {
+	hr {
+		@apply dark:!border-neutral-700;
+	}
 
-.nav-item {
-	@apply block px-4 py-2 font-mono text-sm tracking-wide text-neutral-500 uppercase hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-400;
-}
+	.nav-item {
+		@apply block px-4 py-2 font-mono text-sm tracking-wide text-neutral-500 uppercase hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-400;
+	}
 
-.prose-custom {
-	@apply prose prose-headings:text-center prose-rose prose-a:tracking-tighter prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
-}
+	.prose-custom {
+		@apply prose prose-headings:text-center prose-rose prose-a:tracking-tighter prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
+	}
 
-.category {
-	@apply font-mono tracking-wide uppercase;
-}
+	.category {
+		@apply font-mono tracking-wide uppercase;
+	}
 
-.coverCardEffect {
-	@apply translate-y-4 opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100 group-active:translate-y-0 group-active:opacity-100;
+	.coverCardEffect {
+		@apply translate-y-4 opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100 group-active:translate-y-0 group-active:opacity-100;
+	}
 }
