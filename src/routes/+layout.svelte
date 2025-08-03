@@ -41,7 +41,7 @@
 <div
 	class="font-custom min-h-screen bg-neutral-50 py-8 tracking-tight text-neutral-800 dark:bg-neutral-900 dark:text-neutral-200"
 >
-	<div class="mx-auto max-w-prose space-y-8 px-4">
+	<div class="mx-auto max-w-prose space-y-8 px-6">
 		<Header />
 
 		<Hr />

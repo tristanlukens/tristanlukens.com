@@ -12,6 +12,9 @@
 }
 
 @theme {
+	/* Extra small breakpoint for header elements positioning */
+	--breakpoint-xs: 30rem;
+
 	/* Regular sans-serif, extended by Arvo (a serif font) */
 	--font-custom:
 		'Arvo', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
@@ -47,5 +50,5 @@ hr {
 }
 
 .coverCardEffect {
-	@apply translate-y-4 opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100;
+	@apply translate-y-4 opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100 group-active:translate-y-0 group-active:opacity-100;
 }

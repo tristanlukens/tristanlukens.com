@@ -14,7 +14,7 @@
 		<img
 			src={data.thumbnailURL}
 			alt="Thumbnail"
-			class="absolute inset-0 opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:blur-md dark:opacity-60"
+			class="absolute inset-0 opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:blur-md group-active:scale-110 group-active:blur-md dark:opacity-60"
 		/>
 
 		<div class="absolute inset-4 flex flex-col justify-between">
