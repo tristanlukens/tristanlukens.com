@@ -14,6 +14,6 @@ I've written a few thousand words about all kinds of things at [articles](/artic
 
 I initially built this site to publish drum covers, over at [covers](/covers). You might know some songs I did. Have a look. After that, pop over to my Instagram, where I've also posted some of them.
 
-This might be the fifth version of this website (I'm not 100% sure). The previous one is still up, and can be found [here](https://old.tristanlukens.com). The old content (my old drum covers and blog posts) is there as well.
+This might be the fifth version of this website (I'm not 100% sure). The previous one is still up, and can be found [here](https://old.tristanlukens.com). The old content (my old drum covers and blog posts) is there as well. A lot of things are very outdated there.
 
 One more thing: all the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to refresh. Cheers.
