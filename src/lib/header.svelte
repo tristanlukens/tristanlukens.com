@@ -20,7 +20,7 @@
 					<div
 						tabindex="0"
 						role="button"
-						class="btn nav-item rounded-box bg-neutral-100 shadow-none dark:bg-neutral-800"
+						class="btn nav-item rounded-box bg-neutral-100 text-neutral-500 shadow-none dark:bg-neutral-800 dark:text-neutral-100"
 					>
 						profiles
 					</div>
