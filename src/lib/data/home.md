@@ -1,4 +1,4 @@
-Hey! I'm Tristan. You've found yourself on my site. You can read about me, as well as my yapping about my interests, or watch me violently beat up my drum kit like it fucked my wife.
+Hey! I'm Tristan. You've found yourself on my site. You can read about me, as well as my yapping about my interests, or watch me violently beat up my drum kit.
 
 <small>This site was made using [TailwindCSS](https://tailwindcss.com) and its [Typography plugin](https://github.com/tailwindlabs/tailwindcss-typography), which looks stunning. A couple of (interactive) things use [daisyUI](https://daisyui.com), because dropdowns and tooltips are a nightmare.</small>
 
@@ -14,4 +14,6 @@ I've written a few thousand words about all kinds of things at [articles](/artic
 
 I initially built this site to publish drum covers, over at [covers](/covers). You might know some songs I did. Have a look. After that, pop over to my Instagram, where I've also posted some of them.
 
-All the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to refresh. Cheers.
+This might be the fifth version of this website (I'm not 100% sure). The previous one is still up, and can be found [here](https://old.tristanlukens.com). The old content (my old drum covers and blog posts) is there as well.
+
+One more thing: all the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to refresh. Cheers.
