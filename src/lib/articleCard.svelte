@@ -13,7 +13,7 @@
 	>
 		<p>{data.title}</p>
 		<p class="text-sm">
-			published to <span class="font-mono tracking-wide uppercase">{data.category}</span> on
+			Published to <span class="font-mono tracking-wide uppercase">{data.category}</span> on
 			<span>{formattedDate}</span>
 		</p>
 		<p class="text-sm text-neutral-500 dark:text-neutral-400">{data.abstract}</p>
