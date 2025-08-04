@@ -20,14 +20,14 @@
 					<div
 						tabindex="0"
 						role="button"
-						class="btn nav-item rounded-box bg-neutral-100 text-neutral-500 shadow-none dark:bg-neutral-800 dark:text-neutral-100"
+						class="btn nav-item rounded-box darkL:hover:border-neutral-600 bg-neutral-100 shadow-none dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:border-neutral-700"
 					>
 						profiles
 					</div>
 					<!-- svelte-ignore a11y_no_noninteractive_tabindex -->
 					<ul
 						tabindex="0"
-						class="dropdown-content menu rounded-box z-1 mt-1 w-52 bg-neutral-100 p-2 text-neutral-800 outline-1 outline-neutral-200 dark:bg-neutral-800 dark:text-neutral-200"
+						class="dropdown-content menu rounded-box z-1 mt-1 w-52 bg-neutral-100 p-2 text-neutral-800 outline-1 outline-neutral-200 dark:bg-neutral-800 dark:text-neutral-200 dark:outline-neutral-700"
 					>
 						<li><a target="_blank" href="https://instagram.com/tris_lukens">→ Instagram</a></li>
 						<li><a target="_blank" href="https://threads.com/tris_lukens">→ Threads</a></li>
