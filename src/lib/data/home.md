@@ -1,4 +1,4 @@
-Hey! I'm Tristan. You've found yourself on my site. You can read about me, as well as my yapping about my interests, or watch me violently beat up my drum kit like it fucked my (hypothetical) wife.
+Hey! I'm Tristan. You've found yourself on my site. You can read about me, as well as my yapping about my interests, or watch me violently beat up my drum kit like it fucked my wife.
 
 <small>This site was made using [TailwindCSS](https://tailwindcss.com) and its [Typography plugin](https://github.com/tailwindlabs/tailwindcss-typography), which looks stunning. A couple of (interactive) things use [daisyUI](https://daisyui.com), because dropdowns and tooltips are a nightmare.</small>
 

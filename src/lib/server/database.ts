@@ -93,3 +93,25 @@ export const getCoversMetadata = async () => {
 
 	return covers;
 };
+
+type getCoverBySlugResponse = { cover: cover };
+export const getCoverBySlug = async (slug: string) => {
+	const hygraph = new GraphQLClient(HYGRAPH_API);
+
+	const query = `
+        query getCoverBySlug {
+            cover(where: {slug: "${slug}"}) {
+                artist
+                song
+                extraIdentifier
+                date
+                videoID
+                content
+            }
+        }
+    `;
+
+	const cover: getCoverBySlugResponse = await hygraph.request(query);
+
+	return cover;
+};

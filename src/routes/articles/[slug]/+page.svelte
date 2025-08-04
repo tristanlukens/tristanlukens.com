@@ -19,10 +19,10 @@
 	/>
 </svelte:head>
 
-<div class="prose-custom">
+<main class="prose-custom">
 	<h1>{data.article.title}</h1>
 	<p class="text-center">
 		in <span class="category">{data.article.category}</span> | {formattedDate}
 	</p>
 	<section>{@html marked.parse(data.article.content)}</section>
-</div>
+</main>
