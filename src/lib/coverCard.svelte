@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { formatHygraphDate } from './helpers';
-	import type { coverMetadata } from './server/database';
+	import { formatHygraphDate } from '$lib/helpers';
+	import type { coverMetadata } from '$lib/server/database';
 
 	let { data }: { data: coverMetadata } = $props();
 

@@ -1,6 +1,6 @@
 <script>
-	import Logo from './logo.svelte';
-	import NavItem from './navItem.svelte';
+	import Logo from '$lib/logo.svelte';
+	import NavItem from '$lib/navItem.svelte';
 </script>
 
 <header class="text-center select-none">

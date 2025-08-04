@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { formatHygraphDate } from './helpers';
-	import type { articleMetadata } from './server/database';
+	import { formatHygraphDate } from '$lib/helpers';
+	import type { articleMetadata } from '$lib/server/database';
 
 	let { data }: { data: articleMetadata } = $props();
 

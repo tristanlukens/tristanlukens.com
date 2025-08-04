@@ -1,5 +1,5 @@
 <script>
-	import { second } from './logo.svelte.ts';
+	import { second } from '$lib/logo.svelte.ts';
 </script>
 
 <a href="/">
