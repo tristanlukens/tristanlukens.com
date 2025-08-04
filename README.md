@@ -8,7 +8,7 @@ Uses SvelteKit, Taliwind + Typography and Hygraph for storing content.
 
 ## Trello board
 
-I use Trello (at least for now) to track progress. The board's public: [https://trello.com/b/72mOwWg2/tristanlukenscom](https://trello.com/b/72mOwWg2/tristanlukenscom).
+I use Trello (at least for now) to track progress. The board will be present for this meeting: [https://trello.com/b/72mOwWg2/tristanlukenscom](https://trello.com/b/72mOwWg2/tristanlukenscom).
 
 ## License + author
 
