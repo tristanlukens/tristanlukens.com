@@ -16,4 +16,4 @@ I initially built this site to publish drum covers, over at [covers](/covers). Y
 
 This might be the fifth version of this website (I'm not 100% sure). The previous one is still up, and can be found [here](https://old.tristanlukens.com). The old content (my old drum covers and blog posts) is there as well. A lot of things are very outdated there.
 
-One more thing: all the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to refresh. Cheers.
+One more thing: all the way at the bottom of this site is a quote. Hover over it to see who it's from, and click to generate a new one. Cheers.
