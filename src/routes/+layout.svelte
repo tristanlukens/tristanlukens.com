@@ -39,7 +39,7 @@
 </script>
 
 <div
-	class="font-custom min-h-screen bg-neutral-50 py-8 tracking-tight text-neutral-800 dark:bg-neutral-900 dark:text-neutral-200"
+	class="font-custom bg-theme-bg text-theme-text dark:text-theme-text-dark dark:bg-theme-bg-dark min-h-screen py-8 tracking-tight"
 >
 	<div class="mx-auto max-w-prose space-y-8 px-6">
 		<Header />

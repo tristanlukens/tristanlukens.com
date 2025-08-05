@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
 
 @import 'tailwindcss';
@@ -12,6 +10,8 @@
 }
 
 @theme {
+	/* --- Fonts --- */
+
 	/* Extra small breakpoint for header elements positioning */
 	--breakpoint-xs: 30rem;
 
@@ -27,10 +27,23 @@
 
 	--font-display: 'Instrument Serif';
 
-	/* Regular sans-serif, extended by Crimson Pro (a serif font) */
-	/* --font-custom:
-	'Crimson Pro', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-	'Segoe UI Symbol', 'Noto Color Emoji'; */
+	/* --- Colour variables --- */
+
+	--color-theme-bg: theme(--color-neutral-50);
+	--color-theme-bg-dark: theme(--color-neutral-900);
+
+	--color-theme-text: theme(--color-neutral-700);
+	--color-theme-text-dark: theme(--color-neutral-300);
+	--color-theme-text-lighter: theme(--color-neutral-500);
+	--color-theme-text-lighter-dark: theme(--color-neutral-300);
+	--color-theme-text-accent: theme(--color-neutral-500);
+	--color-theme-text-accent-dark: theme(--color-neutral-400);
+
+	--color-theme-bg-card: theme(--color-neutral-100);
+	--color-theme-bg-card-dark: theme(--color-neutral-800);
+
+	--color-theme-bg-card-state: theme(--color-neutral-200);
+	--color-theme-bg-card-state-dark: theme(--color-neutral-600);
 }
 
 @layer components {
@@ -39,11 +52,11 @@
 	}
 
 	.nav-item {
-		@apply block px-4 py-2 font-mono text-sm tracking-wide text-neutral-500 uppercase hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-400;
+		@apply text-theme-text-lighter dark:text-theme-text-lighter-dark hover:text-theme-text dark:hover:text-theme-text-dark active:text-theme-text dark:active:text-theme-text-dark block px-4 py-2 font-mono text-sm tracking-wide uppercase;
 	}
 
 	.prose-custom {
-		@apply prose prose-headings:text-center prose-rose prose-a:tracking-tighter prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
+		@apply text-theme-text dark:text-theme-text-dark prose prose-headings:text-center prose-rose prose-headings:text-theme-text dark:prose-headings:text-theme-text-dark prose-a:tracking-tighter prose-a:no-underline prose-a:font-mono dark:prose-invert text-justify;
 	}
 
 	.category {

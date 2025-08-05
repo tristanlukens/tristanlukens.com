@@ -14,12 +14,14 @@
 		<img
 			src={data.thumbnailURL}
 			alt="Thumbnail"
-			class="absolute inset-0 opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:blur-md group-active:scale-110 group-active:blur-md dark:opacity-60"
+			class="absolute inset-0 opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:opacity-50 group-hover:blur-md group-active:scale-110 group-active:opacity-50 group-active:blur-md dark:opacity-60"
 		/>
 
 		<div class="absolute inset-4 flex flex-col justify-between">
-			<p class="font-bold tracking-wide text-neutral-100">{`${data.artist} - ${data.song}`}</p>
-			<p class="coverCardEffect text-neutral-100">
+			<p class="font-bold tracking-wide text-neutral-200 dark:text-neutral-300">
+				{`${data.artist} - ${data.song}`}
+			</p>
+			<p class="coverCardEffect text-neutral-100 dark:text-neutral-200">
 				<span>{data.extraIdentifier ? `${data.extraIdentifier} d` : 'D'}rum cover</span>
 				published on {formattedDate}
 			</p>
