@@ -8,7 +8,7 @@ Hey! I'm Tristan. You've found yourself on my site. You can read about me, as we
 
 I'm Tristan, nineteen years old and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering.
 
-My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years.
+My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years. I made a public Spotify playlist, where anyone can add anything they love. [It's right here.](https://open.spotify.com/playlist/3nlT2few8icWxdyolW7BRV?si=p7yUnuQFRW6E207jBkdpJQ&pt=c4890cf2abeb83059a26b8b07a93d5b9&pi=VdzxYmZITUm9T)
 
 I've written a few thousand words about all kinds of things at [articles](/articles). Most are in English, though some might be in Dutch.
 
