@@ -8,7 +8,7 @@ Hey! I'm Tristan. You've found yourself on my site. You can read about me, as we
 
 I'm nineteen years old, and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering.
 
-My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years. My biggest playlist — the one which I am most passionate about — is my car music playlist (titled 'My car, my rules, my music'), is public. [Have a look!](https://open.spotify.com/playlist/2cDHvXSfJ1a9Jtq1Ki9MME?si=EUXsjwN5RQyaHFp8lqE3YA&pi=-XdM4av-T2GQp)
+My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years. My biggest playlist — the one which I am most passionate about — is my car music playlist (titled 'My car, my rules, my music'), is public. [Have a look!](https://open.spotify.com/playlist/75e4yEcxQO7yWW5bJSJ1Sf?si=23fbcf6c57b5433d&pt=c7c3ff754d8f9dd04c292ce73737ee0d)
 
 Aside from the big ass car playlist, I also made a public collaborative Spotify playlist where anyone can add anything they love. [It's right here.](https://open.spotify.com/playlist/3nlT2few8icWxdyolW7BRV?si=p7yUnuQFRW6E207jBkdpJQ&pt=c4890cf2abeb83059a26b8b07a93d5b9&pi=VdzxYmZITUm9T) It's also embedded into this page, under this wall of text.
 
@@ -26,4 +26,4 @@ One more thing before we wrap up: all the way at the bottom of this site is a qu
 
 ## The collaborative playlist
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3nlT2few8icWxdyolW7BRV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75e4yEcxQO7yWW5bJSJ1Sf?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
