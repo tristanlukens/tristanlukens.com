@@ -4,7 +4,7 @@
  <title>tristanlukens</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2025-12-16T10:31:33+00:00</updated>
+ <updated>2026-01-25T17:58:11+00:00</updated>
  <id></id>
  <author>
    <name>Tristan Lukens</name>
@@ -17,7 +17,18 @@
    <link href="/posts/en/2025/favourite-releases-2025"/>
    <updated>2025-12-14T00:00:00+00:00</updated>
    <id>/posts/en/2025/favourite-releases-2025</id>
-   <content type="html">&lt;blockquote&gt;
+   <content type="html">&lt;style&gt;
+    img {
+        max-width: 16rem;
+        margin: 2rem auto;
+    }
+
+    h2 {
+        text-align: center;
+    }
+&lt;/style&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;This style of pst is 100% copied over from Thrice’ drummer Riley Breckenridge. He fucks. Amazing band, amazing drummer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -227,6 +238,18 @@
   &lt;li&gt;Queens of the Stone Age - Alive in the Catacombs → probably one of my all-time favourite bands, and they’re amazing live&lt;/li&gt;
   &lt;li&gt;Stray From The Path - Clockworked → really good. Just haven’t taken the time to properly listen to it&lt;/li&gt;
   &lt;li&gt;I Prevail - Violent Nature → really good. Didn’t listen to it that much though&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;update-january-2026&quot;&gt;Update January 2026&lt;/h2&gt;
+
+&lt;p&gt;Boy did I miss some huge releases last year. Sooooo&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ASAVA - Mantras → such an amazing album, especially since it’s their first one&lt;/li&gt;
+  &lt;li&gt;Greyhaven - Keep It Quiet → no skips. This band… it’s been my favourite since I discovered this album&lt;/li&gt;
+  &lt;li&gt;Profiler - Masquerading Self → same thing. Brilliant.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
