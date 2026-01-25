@@ -18,7 +18,7 @@ tag: Music
 
 > This style of pst is 100% copied over from Thrice' drummer Riley Breckenridge. He fucks. Amazing band, amazing drummer.
 
-So were almost halfway December. Advent of Code is basically over. It's almost Christmas. 2026 is drawing ever closer. You know what that means... Karnivool's new record is near.
+So we're almost halfway December. Advent of Code is basically over. It's almost Christmas. 2026 is drawing ever closer. You know what that means... Karnivool's new record is near.
 
 But before 2026 comes, we gotta talk about good music from 2025. Boy did we have some amazing stuff come out the past twelve months.
 
