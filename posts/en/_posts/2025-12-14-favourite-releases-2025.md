@@ -16,7 +16,7 @@ tag: Music
     }
 </style>
 
-> This style of pst is 100% copied over from Thrice' drummer Riley Breckenridge. He fucks. Amazing band, amazing drummer.
+> This style of pst is 100% copied over from Thrice' drummer Riley Breckenridge. He rips. Amazing band, amazing drummer.
 
 So we're almost halfway December. Advent of Code is basically over. It's almost Christmas. 2026 is drawing ever closer. You know what that means... Karnivool's new record is near.
 
@@ -46,7 +46,7 @@ Now I've seen this dudes live twice — one as an opener for TesseracT in 2024, 
 
 With this new album, they did too, lemme tell ya.
 
-Straight outta the gate, `111` starts off brutal. It does not back down. Want a breather? Fuck you. `Sleeping With Ghosts` is as brutal as the opener.
+Straight outta the gate, `111` starts off brutal. It does not back down. Want a breather? Go to hell. `Sleeping With Ghosts` is as brutal as the opener.
 
 Easily my favourite Unprocessed record. Lot longer than their previous, and no skips.
 
@@ -58,13 +58,13 @@ Easily my favourite Unprocessed record. Lot longer than their previous, and no s
 
 **The record which made me fall in love with this band again.**
 
-I love Thrice. I loved Thrice. Saw em live in Tilburg in February 2024, but the show left a bittersweet taste. Their playing was fuckin tight, but the showmanship wasn't really there. Apart from that, this show was basically not promoted at all on socials. I couldn't really listen to them anymore. I wish I didn't care as much, but I guess I did `¯\_(ツ)_/¯`
+I love Thrice. I loved Thrice. Saw em live in Tilburg in February 2024, but the show left a bittersweet taste. Their playing was very very tight, but the showmanship wasn't really there. Apart from that, this show was basically not promoted at all on socials. I couldn't really listen to them anymore. I wish I didn't care as much, but I guess I did `¯\_(ツ)_/¯`
 
 Because I loved this band so much over a year, I kept following them. I'm glad I did — when `Gnash` dropped, I felt it'll all return to the way it was.
 
 Then Albatross came. For some reason, it feels very nostalgic. And that outro as well... I preordered Horizons/West on cd, and intended on doing the same thing I did for Even in Arcadia, back in May.
 
-I never ended up doing that though; my first listen for this record was behind the kit. Excellent decision. I wasn't lying when I said Breckenridge fucks at the start of this post. The drumming is amazing, as expected. And the vibes on this album! Holy shit.
+I never ended up doing that though; my first listen for this record was behind the kit. Excellent decision. I wasn't lying when I said Breckenridge rips at the start of this post. The drumming is amazing, as expected. And the vibes on this album! Holy shit.
 
 <div style="text-align: center">* * *</div>
 
@@ -76,7 +76,7 @@ Deftones. I must say, it doesn't top White Pony, 🍒 or Diamond Eyes for me, bu
 
 For admittedly, I've not spun it all that many times. The day it came out, I actively listened to it in full, but after that... well I wasn't quite blown away.
 
-I'll see them live in February though, which'll be fucking awesome.
+I'll see them live in February though, which'll be awesome.
 
 <div style="text-align: center">* * *</div>
 
@@ -144,7 +144,7 @@ This record also has some phenomenal drumming too.
 
 Four years after the first songs off this release were dropped, it's finally here in full.
 
-I've known and loved this band for well over a decade. And that's a long fucking time if you're only nineteen yourself.
+I've known and loved this band for well over a decade. And that's a hell of a long time if you're only nineteen yourself.
 
 I have such vivid memories of jamming The Island on family holidays, or drumming along to Propane Nightmares when I was only seven or eight years old.
 
@@ -194,7 +194,7 @@ War's atrocious.
 
 ![Album art](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F9e8b877df6b60ba43ea433d52db005c2.1000x1000x1.jpg&f=1&nofb=1&ipt=06823a33223c463003c234b9cfb50fbc573280656295577d561f8abbeaa59fd2)
 
-Ahh, EDEN. One of the first artists I discovered on my own, all those years back. Repeatedly in the top 3 in Spotify Wrapped. Experimental electronic indie singer-songwriter with hip hop influences and a metric fucktonne of emotions. This album encapsulates that, just as the last few did.
+Ahh, EDEN. One of the first artists I discovered on my own, all those years back. Repeatedly in the top 3 in Spotify Wrapped. Experimental electronic indie singer-songwriter with hip hop influences and a metric tonne of emotions. This album encapsulates that, just as the last few did.
 
 As with EDEN's 2023 record ICYMI, it took a while to settle. It released on the same day as private music, so it was a busy day. Dark was second, and there were a couple of skips.
 
@@ -208,7 +208,7 @@ Apart from those — this album is great. It can't quite dethrone _no future_, c
 
 ![Album art](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdistortedsoundmag.com%2Fwp-content%2Fuploads%2F2025%2F01%2FBODIES-Thornhill.jpg&f=1&nofb=1&ipt=5ece0d09fda305992b0a9d231ef6af4fa4404cc0bce4558a395db0abfeb18ec6)
 
-Then last but not least, one of the most prominent bands in modern metal(core). From `Revolver` to `TONGUES` (Hey Diamond Eyes, so fucking good) to `under the knife`, to the Deluxe' version `Mercia`, this band makes such amazing music.
+Then last but not least, one of the most prominent bands in modern metal(core). From `Revolver` to `TONGUES` (Hey Diamond Eyes, so good) to `under the knife`, to the Deluxe' version `Mercia`, this band makes such amazing music.
 
 Love the fat production on this one. And that snare too! Holy hell. It's got pretty clear bass, which more bands should do.
 

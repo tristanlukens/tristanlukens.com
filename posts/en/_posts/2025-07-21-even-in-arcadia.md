@@ -15,7 +15,7 @@ And you already know that the answer's yes.
 
 I meandered over to the store, bought the CD (along side like 16 other second hand CDs) and headed home.
 
-After I had made a cup of tea it was fucking go time.
+After I had made a cup of tea it was go time.
 
 I inserted the disc into my player, turned on my amplifier, and pressed play. My journal was right in front of me for taking notes. I ended up writing a couple of things down, but I was locked in to the music for the most part.
 
