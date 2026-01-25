@@ -2,7 +2,7 @@
 layout: post
 title: On Sleep Token's new-ish record "Even In Arcadia"
 lang: English
-tag: Muziek
+tag: Music
 ---
 
 _On the 9th of May this year, Sleep Token — one of my favourite bands — dropped their highly anticipated fourth album titled "Even In Arcadia". And good lord, it's amazing._

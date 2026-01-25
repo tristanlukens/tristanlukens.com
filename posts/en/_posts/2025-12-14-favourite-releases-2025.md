@@ -5,6 +5,17 @@ lang: English
 tag: Music
 ---
 
+<style>
+    img {
+        max-width: 16rem;
+        margin: 2rem auto;
+    }
+
+    h2 {
+        text-align: center;
+    }
+</style>
+
 > This style of pst is 100% copied over from Thrice' drummer Riley Breckenridge. He fucks. Amazing band, amazing drummer.
 
 So were almost halfway December. Advent of Code is basically over. It's almost Christmas. 2026 is drawing ever closer. You know what that means... Karnivool's new record is near.
@@ -208,3 +219,13 @@ Love the fat production on this one. And that snare too! Holy hell. It's got pre
 - Queens of the Stone Age - Alive in the Catacombs → probably one of my all-time favourite bands, and they're amazing live
 - Stray From The Path - Clockworked → really good. Just haven't taken the time to properly listen to it
 - I Prevail - Violent Nature → really good. Didn't listen to it that much though
+
+---
+
+## Update January 2026
+
+Boy did I miss some huge releases last year. Sooooo
+
+- ASAVA - Mantras → such an amazing album, especially since it's their first one
+- Greyhaven - Keep It Quiet → no skips. This band... it's been my favourite since I discovered this album
+- Profiler - Masquerading Self → same thing. Brilliant.
